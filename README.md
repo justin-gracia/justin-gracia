@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/justin-gracia/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/justin-gracia/automation)**
-- **[STIG Implementation Automations](https://github.com/justin-gracia/automation)**
+- **[STIG Implementation Automations](https://github.com/justin-gracia/automation/tree/main/STIG)**
 
 ## 🚨 Threat Hunting and Security Operations
 
